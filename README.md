@@ -1,4 +1,4 @@
-# Devops Labs
+# DevOps Labs
 
 # Projet: Docker et GitLab CI/CD
 
